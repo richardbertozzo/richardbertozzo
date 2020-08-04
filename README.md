@@ -1,4 +1,4 @@
-### Hello friend <img src="https://github.com/richardbertozzo/richardbertozzo/blob/me/hi.gif" width="25px">, I'm [Richard](https://richardbertozzo.dev) ! 
+### Hello friend <img src="https://github.com/richardbertozzo/richardbertozzo/blob/master/hi.gif" width="25px">, I'm [Richard](https://richardbertozzo.dev) ! 
 
 I'm a **brazilian developer** 🇧🇷 . Go lover.
 
