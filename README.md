@@ -1,6 +1,8 @@
 ### Hello friend <img src="https://github.com/richardbertozzo/richardbertozzo/blob/master/hi.gif" width="25px">, I'm [Richard](https://richardbertozzo.dev) ! 
 
-I'm a **brazilian developer** 🇧🇷 . Go lover.
+- Brazilian backend developer 🇧🇷
+- Working at [Blockdaemon](https://blockdaemon.com/)
+- Studying and enthusiastic about Web3 and blockchain
 
 <h3> 🤝🏻 Connect with Me </h3>
 
